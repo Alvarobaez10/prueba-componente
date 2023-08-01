@@ -1,4 +1,5 @@
-import Prueba from "./components/Prueba";
+import { Prueba } from "map-component";
+
 function App() {
   return (
     <>

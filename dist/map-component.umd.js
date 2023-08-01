@@ -1,4 +1,4 @@
-(function(Fe,Ee){typeof exports=="object"&&typeof module<"u"?Ee(exports):typeof define=="function"&&define.amd?define(["exports"],Ee):(Fe=typeof globalThis<"u"?globalThis:Fe||self,Ee(Fe.ReactViteLibrary={}))})(this,function(Fe){"use strict";var Ee={exports:{}},Be={},Qe={exports:{}},g={};/**
+(function(Fe,Ee){typeof exports=="object"&&typeof module<"u"?Ee(exports):typeof define=="function"&&define.amd?define(["exports"],Ee):(Fe=typeof globalThis<"u"?globalThis:Fe||self,Ee(Fe["map-component"]={}))})(this,function(Fe){"use strict";var Ee={exports:{}},Be={},Qe={exports:{}},g={};/**
  * @license React
  * react.production.min.js
  *

@@ -1,4 +1,4 @@
 /* eslint-disable react/prop-types */
-export default function Prueba({ text }) {
+export function Prueba({ text }) {
   return <div>{text}</div>;
 }
